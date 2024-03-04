@@ -143,6 +143,7 @@
         android:layout_height="wrap_content"
         android:padding="5dp"
         android:layout_margin="5dp"
+        android:inputType="text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/cidadeTv" />
